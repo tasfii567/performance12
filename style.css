@@ -1,0 +1,39 @@
+@import
+    url('https://fonts.googleapis.com/css2?family=Borel&family=Preahvihear&display=swap');
+
+a{
+    text-decoration-line: underline;
+    text-decoration-style:dotted;
+    text-decoration-color: deeppink;
+    text-decoration-thickness:2px;
+    text-shadow: 0px 0px 5px red;
+    
+}
+h1{
+    text-decoration-line: line-through;
+    text-decoration-style:wavy;
+    text-decoration-color: greenyellow;
+    text-decoration-thickness:3px;
+    text-shadow: 0px 0px 7px blue
+        
+}
+h2{
+     font-family: Borel;
+    color: forestgreen
+    
+}
+p{
+    text-indent:50px;
+    word-spacing: 5px;
+    line-height:200%;
+   
+   white-space: pre;
+    font-family: Preahvihear;
+    
+}
+p1{
+     letter-spacing: 15px;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
